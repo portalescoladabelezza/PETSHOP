@@ -1,0 +1,6 @@
+{
+  "name": "Pet Feliz Banho & Tosa",
+  "description": "Modelo de site oficial premium para pet shop, banho e tosa, estética animal e venda de produtos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
